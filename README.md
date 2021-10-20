@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/responsive-order-summary-card](https://www.frontendmentor.io/solutions/responsive-order-summary-card-XxX9-S5dw)
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-stats-preview-card](https://www.frontendmentor.io/solutions/responsive-stats-preview-card-iejFhQtrl)
 - Live Site URL: [http://fanreza.me/Front-End-Mentor-Challange-Stats-Preview-Card/](http://fanreza.me/Front-End-Mentor-Challange-Stats-Preview-Card/)
 
 ## My process
